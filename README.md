@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # Agenda de Contactos 📒
 
@@ -83,3 +84,7 @@ Puedes usarlo, modificarlo y compartirlo libremente, siempre dando crédito.
 Desarrollado por **Jorge "Lechugas"** 🌱🔥  
 Ingeniero en Sistemas Computacionales, apasionado por la creación de herramientas modulares y proyectos con UI moderna.
 ¡Gracias por visitar mi portafolio! 🚀
+=======
+# Agenda-de-Contactos-Cshap
+ Agenda creada en C# WinForms con SQLite, permite exportar listas de contactos en arcivos tipo CSV
+>>>>>>> f8095c552419be6629cb4ae0b9d5732b5f8ecdfc
